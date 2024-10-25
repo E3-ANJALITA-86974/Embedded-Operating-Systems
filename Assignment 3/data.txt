@@ -1,0 +1,22 @@
+Addition
+Subtraction
+Multiplication
+Division
+1.ls
+Commands
+Display hidden files
+To Do
+2.renameRename all *.txt files to *.htm
+3.ln -sCreate symbolic link (shortcut) for a file
+4.lnCreate hard link for a file
+5.statDisplay time stamp of the file
+6.touchChange the time stamp of the file
+7.touchCreate empty file
+8.tailPrint all lines in a file from fifth line onwards
+9.init 0, poweroffShutdown (Only for super-user)
+10.init 6, rebootReboot (Only for super-user)
+12.whoamiFind current user
+13.ttyFind current terminal
+14.who am iFind current user and terminal
+15.usersFind all users logged into the system
+

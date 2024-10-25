@@ -1,0 +1,13 @@
+SUNBEAM 
+DESD
+
+Q. What is an Operating System?
+• An OS is a system software (i.e. collection of system programs) which acts as an interface between
+End user and hardware.
+• An OS also acts as an interface between computer programs and computer hardware.
+• An OS controls an execution of all programs and it also controls hardware devices which are
+connected to the computer system and hence it is also called as a control program.
+• An OS manages limited available resources among all running programs, hence it is also called as a
+resource manager.
+• An OS allocates resources like main memory, CPU time, i/o devices access etc... to all running
+programs, hence it is also called as a resource allocator.
